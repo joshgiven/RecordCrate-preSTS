@@ -1,0 +1,27 @@
+{
+	"albums": [{
+		"title": "Zoot Allures",
+		"artist": {
+			"name": "Frank Zappa",
+			"sortName": "Zappa, Frank",
+			"image": null,
+			"thumbnail": null,
+			"id": 0
+		},
+		"year": 1976,
+		"genre": "Progressive Rock",
+		"tracks": null,
+		"rating": 0,
+		"compilation": false,
+		"coverImage": null,
+		"coverThumbnail": null,
+		"id": 2
+	}],
+	"artists": {
+		"name": "Frank Zappa",
+		"sortName": "Zappa, Frank",
+		"image": null,
+		"thumbnail": null,
+		"id": 0
+	}
+}
